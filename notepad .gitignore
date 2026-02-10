@@ -1,0 +1,13 @@
+# 🔐 Secrets
+config/credentials.json
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
